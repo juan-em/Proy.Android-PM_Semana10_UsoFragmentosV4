@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PY de SW/Proyectos Andorid/PM_Semana_10/Nueva carpeta/UsoFragmentosV4/app/src/main/res/layout/activity_detalles_contacto.xml" value="0.25416666666666665" />
+        <entry key="..\:/PY de SW/Proyectos Andorid/PM_Semana_10/Nueva carpeta/UsoFragmentosV4/app/src/main/res/layout/elementoslista.xml" value="0.25416666666666665" />
+        <entry key="..\:/PY de SW/Proyectos Andorid/PM_Semana_10/Nueva carpeta/UsoFragmentosV4/app/src/main/res/layout/fragment_adicionales.xml" value="0.1" />
+        <entry key="..\:/PY de SW/Proyectos Andorid/PM_Semana_10/Nueva carpeta/UsoFragmentosV4/app/src/main/res/layout/fragment_contactos_fragmento.xml" value="0.25416666666666665" />
+        <entry key="..\:/PY de SW/Proyectos Andorid/PM_Semana_10/Nueva carpeta/UsoFragmentosV4/app/src/main/res/layout/fragment_fragmento1.xml" value="0.25416666666666665" />
+        <entry key="..\:/PY de SW/Proyectos Andorid/PM_Semana_10/Nueva carpeta/UsoFragmentosV4/app/src/main/res/layout/fragment_fragmento2.xml" value="0.25416666666666665" />
+        <entry key="..\:/PY de SW/Proyectos Andorid/PM_Semana_10/Nueva carpeta/UsoFragmentosV4/app/src/main/res/layout/fragment_fragmentos.xml" value="0.25416666666666665" />
+        <entry key="..\:/PY de SW/Proyectos Andorid/PM_Semana_10/Nueva carpeta/UsoFragmentosV4/app/src/main/res/layout/fragment_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/PY de SW/Proyectos Andorid/PM_Semana_10/Nueva carpeta/UsoFragmentosV4/app/src/main/res/layout/fragment_operaciones.xml" value="0.25416666666666665" />
+        <entry key="..\:/PY de SW/Proyectos Andorid/PM_Semana_10/Nueva carpeta/UsoFragmentosV4/app/src/main/res/layout/fragment_respuesta.xml" value="0.25416666666666665" />
+        <entry key="..\:/PY de SW/Proyectos Andorid/PM_Semana_10/UsoFragmentosV4/app/src/main/res/layout/activity_detalles_contacto.xml" value="0.2" />
+        <entry key="..\:/PY de SW/Proyectos Andorid/PM_Semana_10/UsoFragmentosV4/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/PY de SW/Proyectos Andorid/PM_Semana_10/UsoFragmentosV4/app/src/main/res/layout/elementoslista.xml" value="0.4" />
+        <entry key="..\:/PY de SW/Proyectos Andorid/PM_Semana_10/UsoFragmentosV4/app/src/main/res/layout/fragment_adicionales.xml" value="0.264" />
+        <entry key="..\:/PY de SW/Proyectos Andorid/PM_Semana_10/UsoFragmentosV4/app/src/main/res/layout/fragment_contactos_fragmento.xml" value="0.25416666666666665" />
+        <entry key="..\:/PY de SW/Proyectos Andorid/PM_Semana_10/UsoFragmentosV4/app/src/main/res/layout/fragment_fragmento1.xml" value="0.2" />
+        <entry key="..\:/PY de SW/Proyectos Andorid/PM_Semana_10/UsoFragmentosV4/app/src/main/res/layout/fragment_fragmento2.xml" value="0.25416666666666665" />
+        <entry key="..\:/PY de SW/Proyectos Andorid/PM_Semana_10/UsoFragmentosV4/app/src/main/res/layout/fragment_fragmentos.xml" value="0.1" />
+        <entry key="..\:/PY de SW/Proyectos Andorid/PM_Semana_10/UsoFragmentosV4/app/src/main/res/layout/fragment_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/PY de SW/Proyectos Andorid/PM_Semana_10/UsoFragmentosV4/app/src/main/res/layout/fragment_operaciones.xml" value="0.264" />
+        <entry key="..\:/PY de SW/Proyectos Andorid/PM_Semana_10/UsoFragmentosV4/app/src/main/res/layout/fragment_respuesta.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
